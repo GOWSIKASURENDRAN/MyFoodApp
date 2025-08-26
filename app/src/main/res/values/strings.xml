@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">Myfood</string>
+    <string name="splash_tagline">Deliciousness at your doorstep</string>
+    <string name="app_logo">App Logo</string>
+    <string name="loader_icon">Loading indicator</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome_text">Welcome</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="enter_email_or_phone">Enter Email or Phone</string>
+
+    <string name="login">Login</string>
+    <string name="or_text">OR</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms_privacy_text">By continuing, you agree to our Terms &amp; Privacy Policy</string>
+    
+    <!-- Home Screen -->
+    <string name="deliver_to">Deliver to:</string>
+    <string name="location_jaffna">Jaffna</string>
+    <string name="search_placeholder">Search for restaurants or dishes</string>
+    <string name="promo_banner_text">50% OFF on First Order</string>
+    <string name="popular_near_you">Popular Near You</string>
+    <string name="category_pizza">Pizza</string>
+    <string name="category_burgers">Burgers</string>
+    <string name="category_desserts">Desserts</string>
+    <string name="category_drinks">Drinks</string>
+    <string name="category_gym_food">Gym Food</string>
+    <string name="gym_food_restaurant_name">FitFuel Kitchen</string>
+    <string name="gym_food_cuisine_type">Healthy &amp; Sugar-Free</string>
+    <string name="sugar_free">Sugar-Free</string>
+    <string name="high_protein">High Protein</string>
+    <string name="low_carb">Low Carb</string>
+    <string name="healthy_menu">Healthy Menu</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="cuisine_type">Italian Cuisine</string>
+    <string name="rating">4.5</string>
+    <string name="delivery_time">30-40 min</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Restaurant Details Screen -->
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="back_button">Back Button</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="menu">Menu</string>
+    <string name="info">Info</string>
+    <string name="reviews">Reviews</string>
+    <string name="recommended">Recommended</string>
+    <string name="food_image">Food Image</string>
+    <string name="food_item_name">Margherita Pizza</string>
+    <string name="food_description">Fresh mozzarella, tomato sauce, and basil on crispy crust</string>
+    <string name="food_price">$12.99</string>
+    <string name="add">Add</string>
+    <string name="items_count">2 Items</string>
+    <string name="total_price">$25.98</string>
+    <string name="view_cart">View Cart</string>
+    
+    <!-- Cart Screen -->
+    <string name="your_cart">Your Cart</string>
+    <string name="delivery_info">Delivery in 30-40 min</string>
+    <string name="burger_combo">Burger Combo</string>
+    <string name="burger_price">$6.50</string>
+    <string name="coke">Coke</string>
+    <string name="coke_price">$1.50</string>
+    <string name="french_fries">French Fries</string>
+    <string name="fries_price">$4.00</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="subtotal_amount">$12.00</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="delivery_fee_amount">$2.00</string>
+    <string name="total">TOTAL</string>
+    <string name="total_amount">$14.00</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    
+    <!-- Checkout & Payment Screen -->
+    <string name="checkout">Checkout</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="location_pin">Location Pin</string>
+    <string name="delivery_address_full">John Doe, 123 Main Street, Jaffna</string>
+    <string name="delivery_address_subtext">Near Clock Tower</string>
+    <string name="change">Change</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="cash_icon">Cash Icon</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="unselected_payment">Unselected Payment Method</string>
+    <string name="card_icon">Card Icon</string>
+    <string name="credit_debit_card">Credit/Debit Card</string>
+    <string name="selected_payment">Selected Payment Method</string>
+    <string name="wallet_icon">Wallet Icon</string>
+    <string name="digital_wallet">Digital Wallet</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="burger_combo_summary">Burger Combo ×2</string>
+    <string name="burger_combo_price">$13.00</string>
+    <string name="coke_summary">Coke ×1</string>
+    <string name="fries_summary">French Fries ×1</string>
+    <string name="place_order">Place Order</string>
+    
+    <!-- Order Tracking Screen -->
+    <string name="track_order">Track Order</string>
+    <string name="map_view">Map View</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="delivery_location">Delivery Location</string>
+    <string name="order_on_way">Your order is on the way</string>
+    <string name="eta_arriving">Arriving in 20-25 mins</string>
+    <string name="driver_photo">Driver Photo</string>
+    <string name="driver_name">John Smith</string>
+    <string name="vehicle_info">🚖 Honda Civic</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="message_driver">Message Driver</string>
+    <string name="order_summary_short">Burger Combo ×2, Coke ×1</string>
+    <string name="order_total_amount">$16.50</string>
+    <string name="order_progress">Order Progress</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="being_prepared">Being Prepared</string>
+    <string name="preparing">Preparing</string>
+    <string name="on_the_way">On the Way</string>
+    <string name="on_way">On the Way</string>
+    <string name="delivered">Delivered</string>
+    <string name="delivered_text">Delivered</string>
+    <string name="help">Help</string>
+    
+    <!-- Profile & Settings Screen -->
+    <string name="profile_photo">Profile Photo</string>
+    <string name="user_name">John Smith</string>
+    <string name="user_email">johnsmith@email.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="saved_addresses_icon">Saved Addresses Icon</string>
+    <string name="saved_addresses">Saved Addresses</string>
+    <string name="manage_delivery_addresses">Manage delivery addresses</string>
+    <string name="payment_methods_icon">Payment Methods Icon</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="add_or_remove_cards">Add or remove cards</string>
+    <string name="order_history_icon">Order History Icon</string>
+    <string name="order_history">Order History</string>
+    <string name="view_past_orders">View past orders</string>
+    <string name="notifications_icon">Notifications Icon</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_and_sms_alerts">Push and SMS alerts</string>
+    <string name="language_icon">Language Icon</string>
+    <string name="language">Language</string>
+    <string name="change_app_language">Change app language</string>
+    <string name="help_support_icon">Help &amp; Support Icon</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="get_assistance">Get assistance</string>
+    <string name="terms_privacy_icon">Terms &amp; Privacy Icon</string>
+    <string name="terms_privacy">Terms &amp; Privacy</string>
+    <string name="legal_info">Legal info</string>
+    <string name="chevron_right">Chevron Right</string>
+    <string name="log_out">Log Out</string>
+    
+    <!-- Cart & Checkout Screen -->
+    <string name="cart_icon">Cart Icon</string>
+    <string name="restaurant_abc">Restaurant ABC</string>
+    <string name="restaurant_location_delivery">123 Main Street • 30-40 mins</string>
+    <string name="burger_combo_image">Burger Combo Image</string>
+    <string name="burger_combo_price_lkr">LKR 750</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="quantity_two">2</string>
+    <string name="quantity_one">1</string>
+    <string name="burger_combo_total_lkr">LKR 1,500</string>
+    <string name="fries_large_image">Fries Large Image</string>
+    <string name="fries_large">Fries Large</string>
+    <string name="fries_large_price_lkr">LKR 250</string>
+    <string name="fries_large_total_lkr">LKR 250</string>
+    <string name="coke_image">Coke Image</string>
+    <string name="coke_price_lkr">LKR 150</string>
+    <string name="coke_total_lkr">LKR 150</string>
+    <string name="add_more_items">+ Add More Items</string>
+    <string name="subtotal_amount_lkr">LKR 1,900</string>
+    <string name="delivery_fee_amount_lkr">LKR 250</string>
+    <string name="taxes">Taxes</string>
+    <string name="taxes_amount_lkr">LKR 100</string>
+    <string name="total_amount_lkr">LKR 2,250</string>
+    
+    <!-- Payment & Delivery Screen -->
+    <string name="help_icon">Help Icon</string>
+    <string name="address_line1">123 Main Street, Jaffna</string>
+    <string name="address_line2">Near Central Park</string>
+    <string name="phone_number">+94 77 123 4567</string>
+    <string name="cash_on_delivery_selected">Cash on Delivery Selected</string>
+    <string name="credit_debit_card_unselected">Credit/Debit Card Unselected</string>
+    <string name="mobile_wallet">Mobile Wallet</string>
+    <string name="mobile_wallet_unselected">Mobile Wallet Unselected</string>
+    <string name="subtotal_amount_lkr_payment">LKR 2,500</string>
+    <string name="delivery_fee_amount_lkr_payment">LKR 250</string>
+    <string name="taxes_amount_lkr_payment">LKR 100</string>
+    <string name="total_amount_lkr_payment">LKR 2,850</string>
+    
+    <!-- Order Confirmation Screen -->
+    <string name="order_confirmed_icon">Order Confirmed Icon</string>
+    <string name="order_confirmed_title">Order Confirmed!</string>
+    <string name="order_confirmed_subtitle">Thank you for your order.</string>
+    <string name="clock_icon">Clock Icon</string>
+    <string name="estimated_delivery_time">Estimated Delivery: 35 mins</string>
+    <string name="chicken_burger_order">2x Chicken Burger</string>
+    <string name="chicken_burger_price">LKR 1,000</string>
+    <string name="coke_order">1x Coke</string>
+    <string name="coke_price_confirmation">LKR 150</string>
+    <string name="total_amount_lkr_confirmation">LKR 2,850</string>
+    <string name="track_my_order">Track My Order</string>
+    
+    <!-- Order History Page -->
+    <string name="restaurant_kfc">KFC</string>
+    <string name="date_time_aug_25">25 Aug, 7:45 PM</string>
+    <string name="total_amount_lkr_1450">LKR 1,450</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="food_thumbnail">Food Thumbnail</string>
+    <string name="restaurant_pizza_hut">Pizza Hut</string>
+    <string name="date_time_aug_23">23 Aug, 6:30 PM</string>
+    <string name="total_amount_lkr_2200">LKR 2,200</string>
+    <string name="restaurant_burger_king">Burger King</string>
+    <string name="date_time_aug_20">20 Aug, 8:15 PM</string>
+    <string name="total_amount_lkr_1800">LKR 1,800</string>
+    
+    <!-- Saved Addresses Page -->
+    <string name="address_home">Home</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="delete_address">Delete Address</string>
+    <string name="address_home_full">123 Main Street, Jaffna, Sri Lanka</string>
+    <string name="address_office">Office</string>
+    <string name="address_office_full">456 Business Park, Colombo, Sri Lanka</string>
+    <string name="add_new_address">+ Add New Address</string>
+    
+    <!-- Payment Methods Page -->
+    <string name="visa_card">Visa</string>
+    <string name="card_last_four_5678">**** 5678</string>
+    <string name="remove_card">Remove Card</string>
+    <string name="mastercard">Mastercard</string>
+    <string name="card_last_four_1234">**** 1234</string>
+    <string name="add_new_card">+ Add New Card</string>
+    
+    <!-- Notifications Page -->
+    <string name="order_delivered_icon">Order Delivered Icon</string>
+    <string name="order_delivered_title">Order Delivered!</string>
+    <string name="order_delivered_description">Your order from KFC has been delivered.</string>
+    <string name="time_2h_ago">2h ago</string>
+    <string name="promo_icon">Promo Icon</string>
+    <string name="promo_title">50% OFF on First Order!</string>
+    <string name="promo_description">Use code: FIRST50</string>
+    <string name="time_1d_ago">1d ago</string>
+    <string name="order_status_icon">Order Status Icon</string>
+    <string name="order_status_title">Order Status Update</string>
+    <string name="order_status_description">Your order is out for delivery.</string>
+    <string name="time_3d_ago">3d ago</string>
+    
+    <!-- Help & Support Page -->
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="faq_how_to_cancel">How to cancel an order?</string>
+    <string name="faq_how_to_cancel_answer">You can cancel your order within 5 minutes of placing it through the app or by contacting customer support.</string>
+    <string name="faq_delivery_time">What is the delivery time?</string>
+    <string name="faq_delivery_time_answer">Standard delivery time is 30-45 minutes. Express delivery is available for 15-25 minutes at additional cost.</string>
+    <string name="faq_payment_methods">What payment methods do you accept?</string>
+    <string name="faq_payment_methods_answer">We accept cash on delivery, credit/debit cards, and digital wallets like PayPal and Apple Pay.</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_email">📧 support@myfood.com</string>
+    <string name="contact_call">📞 +94 11 123 4567</string>
+    <string name="contact_live_chat">💬 Live Chat</string>
+    
+    <!-- Order Tracking Screen -->
+    <string name="restaurant_location_marker">Restaurant Location Marker</string>
+    <string name="delivery_location_marker">Delivery Location Marker</string>
+    <string name="status_out_for_delivery">Status: Out for Delivery</string>
+    <string name="out_for_delivery">Out for Delivery</string>
+    <string name="out_for_delivery_text">Out for Delivery</string>
+    <string name="estimated_arrival_25_mins">Estimated Arrival: 25 mins</string>
+    <string name="driver_name_john_silva">John Silva</string>
+    <string name="vehicle_info_bike">Bike - ABC 1234</string>
+    <string name="rating_four_eight">★★★★☆ 4.8</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    
+    <!-- Settings Page -->
+    <string name="app_preferences">App Preferences</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="receive_order_updates">Receive order updates and promotions</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="use_dark_theme">Use dark theme for the app</string>
+    <string name="english">English</string>
+    <string name="legal">Legal</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="read_privacy_policy">Read our privacy policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="read_terms">Read our terms of service</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Additional Strings -->
+    <string name="categories">Categories</string>
+    <string name="star_rating">⭐ 4.5</string>
+    <string name="bullet_point">•</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    
+    <!-- Splash & Onboarding -->
+    <string name="app_tagline">Delicious food delivered to your doorstep</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="get_started">Get Started</string>
+    <string name="onboarding_image_1">Onboarding Image 1</string>
+    <string name="onboarding_title_1">Discover Amazing Food</string>
+    <string name="onboarding_description_1">Explore a wide variety of delicious cuisines from your favorite restaurants</string>
+    <string name="onboarding_image_2">Onboarding Image 2</string>
+    <string name="onboarding_title_2">Fast Delivery</string>
+    <string name="onboarding_description_2">Get your food delivered quickly and safely to your location</string>
+    <string name="onboarding_image_3">Onboarding Image 3</string>
+    <string name="onboarding_title_3">Easy Ordering</string>
+    <string name="onboarding_description_3">Order food with just a few taps and track your delivery in real-time</string>
+    
+    <!-- Login & Register -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter your full name</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="enter_phone_number">Enter your phone number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="continue_with_google_short">Google</string>
+    <string name="continue_with_facebook_short">Facebook</string>
+    
+    <!-- Forgot Password -->
+    <string name="back">Back</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="forgot_password_description">Enter your email address to reset your password</string>
+    <string name="remember_password">Remember your password?</string>
+    <string name="back_to_login">Back to Login</string>
+    
+    <!-- Common Form Strings -->
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="register">Register</string>
+</resources>
